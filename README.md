@@ -15,9 +15,9 @@
   </p>
 
   <ul>
-    <li>🔭 Currently working on: <b>Improving Django & DRF architecture skills</b></li>
-    <li>🔐 Learning: <b>API security best practices & Performance tuning</b></li>
-    <li>🏗️ Building: <b>Real-world backend systems</b></li>
+    <li>Look 🔭 Currently working on: <b>Improving Django & DRF architecture skills</b></li>
+    <li>Look 🔐 Learning: <b>API security best practices & Performance tuning</b></li>
+    <li>Look 🏗️ Building: <b>Real-world backend systems</b></li>
   </ul>
 </div>
 
@@ -65,14 +65,6 @@
 <br>
 <p align="center">
   <a href="https://github.com/enghabiba/projects-portfolio">👉 Click here to explore my full Portfolio</a>
-</p>
-
-<hr>
-
-<h3>📊 Statistics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enghabiba&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enghabiba&layout=compact&theme=radical&hide_border=true" width="38%" />
 </p>
 
 <hr>
