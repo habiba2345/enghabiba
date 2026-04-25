@@ -64,7 +64,7 @@
 </table>
 <br>
 <p align="center">
-  <a href="https://github.com/enghabiba/projects-portfolio">👉 Click here to explore my full Portfolio</a>
+  <a href="https://github.com/habiba2345/projects-portfolio.git">👉 Click here to explore my full Portfolio</a>
 </p>
 
 <hr>
