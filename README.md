@@ -69,11 +69,10 @@
 
 <hr>
 
-<h3>📊 Statistics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enghabiba&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enghabiba&layout=compact&theme=radical&hide_border=true" width="38%" />
-</p>
+<div align="center">
+  <h3>🐍 My Contribution Journey</h3>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 <hr>
 
