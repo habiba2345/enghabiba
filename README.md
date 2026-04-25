@@ -125,4 +125,4 @@ python manage.py runserver
 ## 📫 Contact
 
 * LinkedIn: https://www.linkedin.com/in/habiba-abohamda-40611a363
-* Email: YOUR_EMAIL
+* Email: enghabiba0@gmail.com
