@@ -1,128 +1,90 @@
-# 👩‍💻 Habiba Abohamda
+<div align="center">
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Habiba Abohamda</h1>
+  <p><strong>Backend Developer | Django & Django REST Framework Expert</strong></p>
+  <p><i>Faculty of Computers & Artificial Intelligence – Cairo University</i></p>
+</div>
 
-**Backend Developer | Django & Django REST Framework**
-Faculty of Computers & Artificial Intelligence – Cairo University
+<hr>
 
-📍 Cairo, Egypt
-🔗 [LinkedIn](https://www.linkedin.com/in/habiba-abohamda-40611a363)
+<div align="left">
+  <h3>✨ About Me</h3>
+  <p>
+    I am <b>Habiba Abohamda</b>, a passionate Backend Developer from Cairo, Egypt. 
+    I specialize in building scalable, secure web applications using Python and Django. 
+    My focus is on designing efficient REST APIs and optimizing database performance.
+  </p>
 
----
+  <ul>
+    <li>🔭 Currently working on: <b>Improving Django & DRF architecture skills</b></li>
+    <li>🔐 Learning: <b>API security best practices & Performance tuning</b></li>
+    <li>🏗️ Building: <b>Real-world backend systems</b></li>
+  </ul>
+</div>
 
-## 💡 Profile
+<hr>
 
-Backend developer focused on building secure, scalable web applications using Django.
-Experienced in designing REST APIs, handling data validation, and implementing proper authentication and permissions.
+<h3>🛠️ Tech Stack & Skills</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</p>
 
----
+<hr>
 
-## ⚙️ Tech Stack
+<h3>📂 Projects Portfolio</h3>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <b>🏦 Bank System REST API</b><br>
+      Advanced logic for accounts, transactions, and Postman validation.
+    </td>
+    <td width="50%">
+      <b>🔐 Secure Blog System</b><br>
+      Authentication, permissions, and CBVs for secure data management.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🛒 Amazon Mini E-commerce</b><br>
+      CRUD system, category filtering, and stock validation logic.
+    </td>
+    <td width="50%">
+      <b>📝 Mini Blog Application</b><br>
+      Django MVT architecture with Function-Based Views.
+    </td>
+  </tr>
+</table>
+<br>
+<p align="center">
+  <a href="https://github.com/enghabiba/projects-portfolio">👉 Click here to explore my full Portfolio</a>
+</p>
 
-* **Languages:** Python, C++, Java
-* **Backend:** Django, Django REST Framework
-* **Database:** SQLite, SQL
-* **Tools:** Git, Postman
-* **Concepts:** REST APIs, Authentication, Permissions, ORM, Data Structures
+<hr>
 
----
+<h3>📊 Statistics</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enghabiba&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enghabiba&layout=compact&theme=radical&hide_border=true" width="38%" />
+</p>
 
-## 🚀 Projects
+<hr>
 
-### 📝 Mini Blog Application (Static Data)
-
-* Built using Django MVT architecture (no database)
-* Implemented **Function-Based Views (FBVs)**
-* Static data rendering using context
-* Structured URL routing (project + app level)
-* Template inheritance (`base.html`)
-* Static files configuration (CSS)
-
----
-
-### 🛒 Amazon Mini E-commerce System
-
-* Full **Product CRUD operations**
-* Category system with filtering
-* Search by product name
-* Cart system with **stock validation**
-* Django Admin for management
-* ORM queries (filtering, ordering)
-* Forms & input validation
-
----
-
-### 🔐 Secure Blog System (Auth & Permissions)
-
-**Authentication**
-
-* Register / Login / Logout باستخدام Django built-in auth
-* Error handling (invalid credentials, duplicate users)
-
-**Blog System (CBVs)**
-
-* Post model (title, content, author, date)
-* Full CRUD using Class-Based Views
-
-**Permissions**
-
-* Public access for viewing posts
-* Only authenticated users can create posts
-* Only authors can update/delete (403 protection)
-
----
-
-### 🏦 Bank System REST API
-
-**Core**
-
-* RESTful API using Django REST Framework
-* Full CRUD (GET, POST, PUT, PATCH, DELETE)
-
-**Modules**
-
-* Customers Management
-* Bank Accounts
-* Transactions (Deposit / Withdraw / Transfer)
-
-**Validation & Testing**
-
-* ModelSerializer with validation
-
-* Error handling:
-
-  * Invalid data
-  * Missing fields
-  * Non-existing IDs
-  * Insufficient balance
-
-* Postman Collection:
-
-  * Organized (Customers / Accounts / Transactions)
-  * Includes example request bodies
-
----
-
-## 📚 Currently Improving
-
-* Django performance optimization
-* API security best practices
-* Database design & query optimization
-
----
-
-## 📌 How to Run
-
-```bash
-git clone https://github.com/YOUR_USERNAME/PROJECT_NAME
-cd PROJECT_NAME
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-python manage.py runserver
-```
-
----
-
-## 📫 Contact
-
-* LinkedIn: https://www.linkedin.com/in/habiba-abohamda-40611a363
-* Email: enghabiba0@gmail.com
+<div align="center">
+  <h3>🔗 Connect with Habiba</h3>
+  <a href="https://www.linkedin.com/in/habiba-abohamda-40611a363">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:enghabiba0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br><br>
+  <p>⭐ <i>Always learning, building, and improving.</i></p>
+</div>
